@@ -37,7 +37,8 @@ Replace [Your_Username] with your Windows profile username.
 Start the SpectrononPro3 program.
 Once loaded, go to the "File" tab at the top of the screen and select "Reload Plugins".
 
-Usage
+-----------------------------------------------------------------------------------------------
+Example Usage:
 
 1. MeanSpectraAcrossEntireImage.py
 
